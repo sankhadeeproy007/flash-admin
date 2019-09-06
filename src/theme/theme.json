@@ -1,3 +1,7 @@
 {
-  "@primary-color": "#1777FE"
+  "@gradient-primary": "rgba(0, 104, 155, 1)",
+  "@gradient-secondary": "rgba(0, 173, 239, 1)",
+  "@primary-color": "#1777FE",
+  "@heading-color": "rgba(255, 255, 255, 0.85)",
+  "@text-color-secondary": "rgba(255, 255, 255, 0.45)"
 }
