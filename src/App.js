@@ -1,12 +1,13 @@
 import React from 'react';
-import { Button, Icon, Slider } from 'antd';
+import { Button, Icon } from 'antd';
 
 import './App.css';
 
 function App() {
   return (
     <div className="App">
-      <Button type="primary">Edit <Icon type="edit" />
+      <Button type="primary">
+        Edit <Icon type="edit" />
       </Button>
     </div>
   );
