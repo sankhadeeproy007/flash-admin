@@ -1,14 +1,13 @@
 import React from 'react';
-import { Button, Icon } from 'antd';
 
-import './App.css';
+import { Header } from './components/Header';
+
+import './App.scss';
 
 function App() {
   return (
     <div className="App">
-      <Button type="primary">
-        Edit <Icon type="edit" />
-      </Button>
+      <Header title="Flash App" />
     </div>
   );
 }
